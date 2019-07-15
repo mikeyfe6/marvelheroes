@@ -2,6 +2,7 @@
   <footer class="AppFooter bg-teal-900 text-white">
     <div class="container mx-auto flex items-center justify-between p-3">
       <div>Copyright 2019. All Rights Reserved</div>
+      <div>Michael Fransman's Marvel Heroes API</div>
       <ul class="flex items-center">
         <li class="mr-5">
           <a href="#" class="fab fa-twitter fa-lg"></a>
